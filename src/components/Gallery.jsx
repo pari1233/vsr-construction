@@ -3,32 +3,32 @@ import { Link } from "react-scroll"
 
 const projects = [
   {
-    image: "/projects/construction2.jpeg",
+    image: "/projects/construction2.webp",
     title: "Groundworks & Concrete Slab",
     category: "Groundwork",
   },
   {
-    image: "/projects/drainage Installation.jpeg",
+    image: "/projects/drainage Installation.webp",
     title: "Drainage Installation",
     category: "Groundwork",
   },
   {
-    image: "/projects/flooring installation.jpeg",
+    image: "/projects/flooring installation.webp",
     title: "Flooring Installation",
     category: "Flooring",
   },
   {
-    image: "/projects/painting.jpeg",
+    image: "/projects/painting.webp",
     title: "Interior Painting",
     category: "Decorating",
   },
   {
-    image: "/projects/bathroom renovation.jpeg",
+    image: "/projects/bathroom renovation.webp",
     title: "Bathroom Renovation",
     category: "Bathroom",
   },
   {
-    image: "/projects/external Cladding.jpeg",
+    image: "/projects/external Cladding.webp",
     title: "External Wall Cladding",
     category: "Exterior Works",
   },

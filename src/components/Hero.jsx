@@ -4,7 +4,7 @@ import { Award, Hammer, Users, Headphones } from "lucide-react"
 
 const slides = [
   {
-    image: "/hero-house.png",
+    image: "/hero-house.webp",
     smallTitle: "VSR Construction Ltd",
     title: "Building Quality.",
     highlight: "Delivering Excellence.",
@@ -12,7 +12,7 @@ const slides = [
       "Professional construction and property improvement services delivered with reliable workmanship and attention to detail.",
   },
   {
-    image: "/hero-landscaping.png",
+    image: "/hero-landscaping.webp",
     smallTitle: "Outdoor Improvements",
     title: "Beautiful Landscapes.",
     highlight: "Outdoor Living Spaces.",
@@ -20,7 +20,7 @@ const slides = [
       "From landscaping and fencing to patios and outdoor finishes, we create clean and practical spaces for your property.",
   },
   {
-    image: "/hero-renovation.png",
+    image: "/hero-renovation.webp",
     smallTitle: "Home Renovations",
     title: "Modern Renovations.",
     highlight: "Designed For Living.",

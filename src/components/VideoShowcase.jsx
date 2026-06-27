@@ -10,7 +10,7 @@ const videos = [
     category: "Cleaning",
   },
   {
-    video: "/videos/Cleaning Service.mp4",
+    video: "/videos/Cleaning Services.mp4",
     title: "Cleaning Service",
     category: "Maintenance",
   },

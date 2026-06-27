@@ -2,28 +2,28 @@ import { useState } from "react"
 
 const featuredServices = [
   {
-    image: "/services/groundwork.jpg",
+    image: "/services/groundwork.webp",
     category: "Construction",
     title: "Groundwork",
     description:
       "Excavation, foundations, drainage and complete site preparation services.",
   },
   {
-    image: "/services/landscaping.jpg",
+    image: "/services/landscaping.webp",
     category: "Outdoor",
     title: "Landscaping",
     description:
       "Garden design, patios, paving and outdoor improvements tailored to your property.",
   },
   {
-    image: "/services/kitchen.jpg",
+    image: "/services/kitchen.webp",
     category: "Renovation",
     title: "Renovations",
     description:
       "Kitchen fitting, bathroom installation, flooring and decorating solutions.",
   },
   {
-    image: "/services/driveway-cleaning.jpg",
+    image: "/services/driveway-cleaning.webp",
     category: "Maintenance",
     title: "Cleaning Services",
     description:
@@ -33,37 +33,37 @@ const featuredServices = [
 
 const additionalServices = [
   {
-    image: "/services/fencing.jpg",
+    image: "/services/fencing.webp",
     category: "Outdoor",
     title: "Fencing",
     description: "Wooden, concrete and metal fencing for privacy and security.",
   },
   {
-    image: "/services/bathroom.jpg",
+    image: "/services/bathroom.webp",
     category: "Renovation",
     title: "Bathroom Fittings",
     description: "Complete bathroom installation and renovation services.",
   },
   {
-    image: "/services/painting.jpg",
+    image: "/services/painting.webp",
     category: "Finishing",
     title: "Paint & Decorating",
     description: "Interior and exterior painting and decorating solutions.",
   },
   {
-    image: "/services/flooring.jpg",
+    image: "/services/flooring.webp",
     category: "Finishing",
     title: "Flooring",
     description: "Laminate, hardwood and tile flooring installation.",
   },
   {
-    image: "/services/gutter-cleaning.jpg",
+    image: "/services/gutter-cleaning.webp",
     category: "Maintenance",
     title: "Patio & Gutter Cleaning",
     description: "Professional patio and gutter cleaning services.",
   },
   {
-    image: "/services/car-valeting.jpg",
+    image: "/services/car-valeting.webp",
     category: "Cleaning",
     title: "Car Valeting",
     description: "Professional vehicle valeting and detailing services.",

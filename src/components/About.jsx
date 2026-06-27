@@ -7,13 +7,13 @@ function About() {
         
         <div className="relative">
           <img
-            src="/projects/construction2.jpeg"
+            src="/projects/construction2.webp"
             alt="VSR Construction work"
             className="rounded-3xl shadow-2xl w-full h-[520px] object-cover"
           />
 
           <div className="absolute bottom-6 left-6 bg-black text-white p-6 rounded-2xl shadow-xl">
-            <h3 className="text-4xl font-extrabold text-yellow-500">10+</h3>
+            <h3 className="text-4xl font-extrabold text-yellow-500">20+</h3>
             <p className="font-semibold">Years of Experience</p>
           </div>
         </div>
